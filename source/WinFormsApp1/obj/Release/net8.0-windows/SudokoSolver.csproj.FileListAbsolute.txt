@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\SudokoSolver.exe
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\SudokoSolver.deps.json
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\SudokoSolver.runtimeconfig.json
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\SudokoSolver.dll
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\SudokoSolver.pdb
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\SudokoSolver.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\SudokoSolver.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\SudokoSolver.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\SudokoSolver.AssemblyInfo.cs
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\SudokoSolver.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\SudokoSolver.dll
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\refint\SudokoSolver.dll
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\SudokoSolver.pdb
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\SudokoSolver.genruntimeconfig.cache
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\ref\SudokoSolver.dll
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.SudokuForm.resources

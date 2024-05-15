@@ -1,0 +1,32 @@
+C:\Users\firasghribi\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.exe
+C:\Users\firasghribi\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\firasghribi\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\firasghribi\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.dll
+C:\Users\firasghribi\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.pdb
+C:\Users\firasghribi\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\firasghribi\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\firasghribi\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firasghribi\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\firasghribi\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\firasghribi\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\firasghribi\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.dll
+C:\Users\firasghribi\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\firasghribi\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.pdb
+C:\Users\firasghribi\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\firasghribi\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\ref\WinFormsApp1.dll
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.exe
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.deps.json
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.runtimeconfig.json
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.dll
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.pdb
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.Form1.resources
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.dll
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\refint\WinFormsApp1.dll
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.pdb
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+\\Mac\Home\Desktop\Windows-app\App backup\3\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\ref\WinFormsApp1.dll

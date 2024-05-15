@@ -1,0 +1,5 @@
+\\Mac\Home\Desktop\published_sudoku\SudokoSolver.exe
+\\Mac\Home\Desktop\published_sudoku\SudokoSolver.dll
+\\Mac\Home\Desktop\published_sudoku\SudokoSolver.deps.json
+\\Mac\Home\Desktop\published_sudoku\SudokoSolver.runtimeconfig.json
+\\Mac\Home\Desktop\published_sudoku\SudokoSolver.pdb
